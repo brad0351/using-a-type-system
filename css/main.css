@@ -21,10 +21,10 @@ html {
 
 .img-flex {
   display: block;
-  box-sizing: 100%;
+  width : 100%;
 }
 
-a{
+a {
   color: currentColor;
 }
 
